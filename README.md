@@ -1,7 +1,7 @@
 terraform-zsh-plugin
 ====================
 
-Plugin for Terraform, extendinf original oh-my-zsh plugin with aliases and autocompletion.
+Plugin for Terraform, extending the original oh-my-zsh plugin with aliases and autocompletion.
 
 Terraform is a tool from Hashicorp for managing infrastucture as code in secure and efficient way.
 
