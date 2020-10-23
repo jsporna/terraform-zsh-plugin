@@ -45,6 +45,3 @@ alias tfia!='tfi && tfa!'
 
 alias tfd!='tfd -auto-approve'
 alias tfid!='tfi && tfd!'
-
-complete -o nospace -C $(which terraform) terraform
-
