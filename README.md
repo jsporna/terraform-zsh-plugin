@@ -28,7 +28,7 @@ git clone https://github.com/jsporna/terraform-zsh-plugin \
 plugins=(... terraform)
 ```
 
-3. Start new  termianl session.
+3. Start new  terminal session.
 
 # Usage
 
